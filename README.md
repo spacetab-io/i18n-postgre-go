@@ -32,9 +32,9 @@ func FetchRec(rows *sql.Result) (*Record, error) {
 	record := &Record{}
 	
 	return record, rows.Scan(
-		&record.Id,
-		&translation_postgre.Bind{
-		    V: &record.Name,
+	    &record.Id,
+	    &translation_postgre.Bind{
+		V: &record.Name,
 	    },
 	)
 }
