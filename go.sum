@@ -1,0 +1,4 @@
+github.com/lib/pq v1.0.0 h1:X5PMW56eZitiTeO7tKzZxFCSpbFZJtkMMooicw2us9A=
+github.com/lib/pq v1.0.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
+github.com/microparts/i18n-go v0.1.0 h1:YcNsPfsUENyIl3CtKJ3yzYr717N9QjSZwrzoG7a+Xx0=
+github.com/microparts/i18n-go v0.1.0/go.mod h1:PqcumBIP3MBr6FvLCYE/TPtptuQLz/PN97NaWqX66Vo=
