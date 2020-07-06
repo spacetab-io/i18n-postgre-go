@@ -3,7 +3,7 @@ package translation
 import (
 	"database/sql/driver"
 	"github.com/lib/pq/hstore"
-	"github.com/microparts/i18n-go/translation"
+	"github.com/spacetab-io/i18n-go/translation"
 )
 
 const (

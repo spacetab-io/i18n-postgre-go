@@ -1,4 +1,4 @@
-# i18n-go-postgre
+# i18n-postgre-go
 Expending i18-go structures to bind them for PostgreSQL libs (gorm, lib/pq)
 
 # Usage
@@ -11,8 +11,8 @@ import (
 	"database/sql"
 
 	"github.com/jinzhu/gorm"
-	"github.com/microparts/i18n-go/translation"
-	translation_postgre "github.com/microparts/i18n-go-postgre/translation"
+	"github.com/spacetab-io/i18n-go/translation"
+	translation_postgre "github.com/spacetab-io/i18n-postgre-go/translation"
 	
 )
 
